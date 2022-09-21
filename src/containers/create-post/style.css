@@ -1,0 +1,9 @@
+.createPost{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 18px 24px;
+}
+.pst {
+    margin-left:12px ;
+}
